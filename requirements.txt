@@ -3,4 +3,4 @@ django==1.6.5
 django-celery==3.1.10
 django-crispy-forms==1.4.0
 django-debug-toolbar==1.2.1
-django-jsonfield==0.9.12
+django-jsonfield==0.9.13
