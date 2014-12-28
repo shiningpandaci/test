@@ -1,6 +1,6 @@
-celery==3.1.17
-django==1.7.1
-django-celery==3.1.16
-django-crispy-forms==1.4.0
-django-debug-toolbar==1.2.2
-django-jsonfield==0.9.13
+celery == 3.0.18
+django == 1.6
+django-celery == 3.0.17
+django-crispy-forms == 1.2.4
+django-debug-toolbar == 0.9.4
+django-jsonfield == 0.9.3
