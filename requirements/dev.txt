@@ -1,5 +1,5 @@
 celery==3.1.23
-django==1.9.4
+django==1.9.5
 django-celery==3.1.17
 django-crispy-forms==1.6.0
 django-debug-toolbar==1.4
