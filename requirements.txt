@@ -1,6 +1,6 @@
 celery==4.4.0
 django==3.0.3
 django-celery==3.3.1
-django-crispy-forms==1.8.1
+django-crispy-forms==1.9.0
 django-debug-toolbar==2.2
 django-jsonfield==1.4.0
