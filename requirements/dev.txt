@@ -1,4 +1,4 @@
-celery==5.0.5
+celery==5.1.0
 django==3.2.3
 django-celery==3.3.1
 django-crispy-forms==1.11.2
